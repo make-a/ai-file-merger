@@ -10,8 +10,8 @@
 // @match        https://chat.deepseek.com/*
 // @match        https://claude.ai/*
 // @match        https://grok.com/*
-// @updateURL    https://raw.githubusercontent.com/make-a/file_merger/main/file_merger.user.js
-// @downloadURL  https://raw.githubusercontent.com/make-a/file_merger/main/file_merger.user.js
+// @updateURL    https://raw.githubusercontent.com/make-a/ai-file-merger/main/file_merger.user.js
+// @downloadURL  https://raw.githubusercontent.com/make-a/ai-file-merger/main/file_merger.user.js
 // @grant        GM_setClipboard
 // @grant        GM_addStyle
 // @run-at       document-end
