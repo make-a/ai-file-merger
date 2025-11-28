@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AI File Merger & Injector
 // @namespace    http://tampermonkey.net/
-// @version      8.0
+// @version      8.1
 // @description  Floating ball: Click to open, Right-click to clear. Support Folder recursive drag. Drop inside modal supported.
 // @author       You
 // @match        https://chatgpt.com/*
@@ -28,7 +28,8 @@
         { domain: 'chat.qwen.ai', selector: 'textarea' },
         { domain: 'gemini.google.com', selector: 'div[contenteditable="true"]' },
         { domain: 'deepseek.com', selector: 'textarea' },
-        { domain: 'claude.ai', selector: 'div[contenteditable="true"]' }
+        { domain: 'claude.ai', selector: 'div[contenteditable="true"]' },
+        { domain: 'grok.com', selector: 'div[contenteditable="true"]' },
     ];
 
     // ========================================================================
