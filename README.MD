@@ -1,6 +1,5 @@
----
+# 🤖 AI File Merger & Injector
 
-# 🤖 AI File Merger & Injector  
 > ⚡ 一款支持**文件夹拖拽递归读取** + **代码合并注入**的油猴脚本，专为 AI 聊天平台（ChatGPT / Claude / Gemini / Qwen / DeepSeek / Grok）打造。
 
 [![Tampermonkey](https://img.shields.io/badge/Tampermonkey-✓-green?logo=tampermonkey)](https://www.tampermonkey.net/)
@@ -103,5 +102,7 @@ MIT License — 允许自由使用、修改、分发，只需保留原作者声�
 - [Tampermonkey](https://www.tampermonkey.net/) — 用户脚本的基石
 - [GitHub Pages / Raw](https://raw.githubusercontent.com/) — 零成本托管更新源
 - Inspired by needs of real-world AI engineers & code reviewers 🌟
+
+### ！！！注
 
 #### 以上皆为 AI 生成
